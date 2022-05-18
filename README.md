@@ -6,6 +6,10 @@ Repair is for all main or integral part of their product. Replacement is for acc
 
 ![IMG_0273](https://user-images.githubusercontent.com/35097948/168906599-0bd209a0-2297-46f1-8bf8-2cf04c6af6a5.JPG)
 
+## System Architecture Diagram
+
+![image](https://user-images.githubusercontent.com/35097948/168974448-134243f9-ef35-405b-87e9-9461613386b1.png)
+
 ----------------------------------------  Requriment ---------------------------------------
 
 API BaseURL : http://localhost:9191
