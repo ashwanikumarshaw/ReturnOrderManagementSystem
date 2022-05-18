@@ -2,13 +2,17 @@
 A leading Supply chain Management Organization wants to automate the return orders, by classifying them to repair or replacement. 
 Repair is for all main or integral part of their product. Replacement is for accessories.
 
-## WorkFlow 
-
-![IMG_0273](https://user-images.githubusercontent.com/35097948/168906599-0bd209a0-2297-46f1-8bf8-2cf04c6af6a5.JPG)
 
 ## System Architecture Diagram
 
 ![image](https://user-images.githubusercontent.com/35097948/168974448-134243f9-ef35-405b-87e9-9461613386b1.png)
+
+
+---------------------------------------- Workflow Board ---------------------------------------
+
+## WorkFlow 
+
+![IMG_0273](https://user-images.githubusercontent.com/35097948/168906599-0bd209a0-2297-46f1-8bf8-2cf04c6af6a5.JPG)
 
 ----------------------------------------  Requriment ---------------------------------------
 
